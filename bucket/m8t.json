@@ -1,11 +1,11 @@
 {
-  "version": "0.2.135",
+  "version": "0.2.136",
   "description": "CLI for managing m8t deployments on Azure / Microsoft Agent Foundry",
   "homepage": "https://github.com/m8t-labs/m8t",
   "license": "MIT",
   "depends": "nodejs",
-  "url": "https://registry.npmjs.org/@m8t-stack/cli/-/cli-0.2.135.tgz",
-  "hash": "sha256:018fee9bfb4f3732c8703bfc0f107b5500d53a10d067483b08d731ca154d246f",
+  "url": "https://registry.npmjs.org/@m8t-stack/cli/-/cli-0.2.136.tgz",
+  "hash": "sha256:425458297d5d2e1ce53902464762bbd765391ebf26f5fae0d1acd313c382bc9d",
   "extract_dir": "package",
   "installer": {
     "script": [
